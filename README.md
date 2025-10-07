@@ -33,8 +33,8 @@ Includes an interactive dashboard, performance analytics, and an AI assistant fo
 
 #### 🎓 Academic Management System for University Professors
 Full web system developed with Flask for managing students and modules.  
-Supports CRUD operations and deployment with Docker + Kubernetes.  
-**Technologies:** Python, Flask, SQLite, Docker, Kubernetes  
+Supports CRUD operations and deployment with Docker.  
+**Technologies:** Python, Flask, SQLite, Docker  
 
 ---
 
@@ -50,7 +50,7 @@ Supports CRUD operations and deployment with Docker + Kubernetes.
 <!-- ========================== TECHNOLOGIES ========================== -->
 <h3 align="center">🧠 Technologies I work with</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,js,python,java,html,css,nodejs,flask,docker,sqlite,postgres,git,github,linux,tailwind,redis,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,js,python,java,php,html,css,nodejs,flask,docker,sqlite,postgres,git,github,linux,tailwind" />
 </p>
 
 ---
