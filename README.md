@@ -1,6 +1,6 @@
 <!-- ========================== HEADER ========================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:000000&height=150&section=header&text=Hello,%20I'm%20Arthur%20Padilha!&fontColor=b184f5&fontSize=35&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:000000&height=150&section=header&text=Hello,%20I'm%20Arthur%20Padilha!&fontColor=FFFFFF&fontSize=35&animation=fadeIn" width="100%"/>
 </p>
 
 <!-- ========================== INTRO ========================== -->
@@ -37,10 +37,9 @@ Supports CRUD operations and deployment with Docker.
 ---
 
 <!-- ========================== STATS ========================== -->
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📊 Most Used Languages</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=P4d1lh4&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=b184f5&icon_color=b184f5" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P4d1lh4&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=b184f5&text_color=c9d1d9" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P4d1lh4&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=c9d1d9" height="180em"/>
 </p>
 
 ---
