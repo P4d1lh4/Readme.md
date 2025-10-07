@@ -1,6 +1,6 @@
 <!-- ========================== HEADER ========================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,100:0074D9&height=150&section=header&text=Hello,%20I'm%20Arthur%20Padilha!&fontColor=00aaff&fontSize=35&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:000000&height=150&section=header&text=Hello,%20I'm%20Arthur%20Padilha!&fontColor=b184f5&fontSize=35&animation=fadeIn" width="100%"/>
 </p>
 
 <!-- ========================== INTRO ========================== -->
@@ -16,9 +16,7 @@
 <!-- ========================== ABOUT ME ========================== -->
 <h3 align="center">🎯 About Me</h3>
 <p align="center">
-  I’m a <strong>Front-End Developer</strong> and <strong>Computer Science student</strong> based in Recife - PE, Brazil.<br/>
-  My goal is to combine creativity and logic to build scalable and engaging digital solutions.<br/>
-  I love teamwork, learning from challenges, and contributing to open-source projects.
+  I’m a Developer and Computer Science student based in Recife - PE, Brazil. My goal is to combine creativity and logic to build scalable and engaging digital solutions, driven by data-driven insights. I have a strong interest in Data Analysis and enjoy using it to create more intelligent and effective applications. I love teamwork, learning from challenges, and contributing to open-source projects.
 </p>
 
 ---
@@ -41,8 +39,8 @@ Supports CRUD operations and deployment with Docker.
 <!-- ========================== STATS ========================== -->
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=P4d1lh4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00aaff&icon_color=00aaff" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P4d1lh4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00aaff&text_color=c9d1d9" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=P4d1lh4&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=b184f5&icon_color=b184f5" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P4d1lh4&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=b184f5&text_color=c9d1d9" height="180em"/>
 </p>
 
 ---
@@ -50,7 +48,7 @@ Supports CRUD operations and deployment with Docker.
 <!-- ========================== TECHNOLOGIES ========================== -->
 <h3 align="center">🧠 Technologies I work with</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,js,python,java,php,html,css,nodejs,flask,docker,sqlite,postgres,git,github,linux,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,js,python,java,php,html,css,nodejs,flask,docker,sqlite,postgres,git,github,linux,tailwind&theme=dark" />
 </p>
 
 ---
@@ -76,15 +74,15 @@ Supports CRUD operations and deployment with Docker.
 <h3 align="center">🤝 Connect with me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/arthur-ppadilha/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:arthur.ppadilha09@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-8a2be2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,100:0074D9&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:000000&height=120&section=footer"/>
 </p>
